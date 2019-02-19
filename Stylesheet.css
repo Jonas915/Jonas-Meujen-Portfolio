@@ -30,7 +30,7 @@ main {
 
 section {
     height: 100%;
-    width: auto;
+    width: 100%;
 }
 
 section img {
@@ -55,8 +55,8 @@ footer {
 }
 
 footer img {
-    height: 95%;
-    width: 25%;
+    height: 100%;
+    width: auto;
     margin-top: 0.5rem;
-    margin-left: 67rem;
+    margin-left: 75rem;
 }
